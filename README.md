@@ -12,12 +12,6 @@ The proposed system can control the media player from a distance using hand gest
 4. A user interface is created using the Streamlit web framework
 5. A webpage is deployed which contains source files and demo using streamlit.io sharing.
 
-![alt text](https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/cam%20page.png?raw=true)
-
-#### Web App link:
-
-https://share.streamlit.io/gayathri1462/hand-gesture-recognition-streamlit/main/webapp.py
-
 #### System Design Flow:
 
 <img src="https://github.com/gayathri1462/Controlling-Media-Player-with-Hand-Gestures-using-Convolutional-Neural-Network/blob/main/images/design.png?raw=true.type" width="500" height="400">
